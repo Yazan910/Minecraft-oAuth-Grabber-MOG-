@@ -1,6 +1,6 @@
 //Config
 const secret_value = '.WW8Q~BnSgyVc5h5DzTEQWU5wRmqyeJdqIo4Tas8'
-const client_id = 'a06c832a-e2a5-4d5e-a2b3-c5f8fb61fe35'
+const client_id = 'c91c54a3-2b61-47ef-aa46-b6f25bac0385'
 const redirect_uri = 'https://d-na.herokuapp.com/'
 const webhook_url = 'webhook'
 //Requirements
